@@ -1,0 +1,1 @@
+<a href="https://github.com/Resident234/bitrix_adventures/wiki">Работа с системой битрикс</a>
